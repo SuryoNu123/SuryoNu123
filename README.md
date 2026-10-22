@@ -31,17 +31,17 @@
 
 <!-- ==================== ABOUT ME ==================== -->
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center"> About Me</h2>
 
 <div align="center">
 
-🎓 Informatics Engineering Student
+Informatics Engineering Student
 
-💻 Interested in Web Development and UI/UX Design
+Interested in Web Development and UI/UX Design
 
-🚀 Learning, building, and improving every day
+Learning, building, and improving every day
 
-🌱 Exploring Laravel, Flutter, and modern web technologies
+Exploring Laravel, Flutter, and modern web technologies
 
 </div>
 
@@ -61,7 +61,7 @@
 
 <!-- ==================== GITHUB STATS ==================== -->
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="center"> GitHub Statistics</h2>
 
 <div align="center">
 
@@ -83,7 +83,7 @@
 
 <!-- ==================== CONTRIBUTION STREAK ==================== -->
 
-<h2 align="center">🔥 Contribution Streak</h2>
+<h2 align="center"> Contribution Streak</h2>
 
 <div align="center">
 
@@ -98,7 +98,7 @@
 
 <!-- ==================== CONNECT ==================== -->
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center"> Connect With Me</h2>
 
 <div align="center">
 
@@ -119,7 +119,7 @@
 
   <br><br>
 
-  ⭐ Thanks for visiting my profile! ⭐
+   Thanks for visiting my profile! 
 
 </div>
 ```
