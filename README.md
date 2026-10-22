@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>
-    <span style="color:#C3FF00;">Hello!</span> 👋
+    <span style="color:#C3FF00;">Hello!</span> 
   </h1>
 
   <h3>I'm Suryo Nugroho</h3>
@@ -17,12 +17,10 @@
 
 </div>
 
-<!-- ==================== PIXEL ART BANNER ==================== -->
-
 <div align="center">
   <img
-    src="assets/banner.png"
-    alt="Pixel art developer workspace"
+    src="https://github.com/user-attachments/assets/d31c35ba-9380-456f-b3d4-033fae26421e"
+    alt="GitHub profile banner"
     width="100%"
   />
 </div>
@@ -49,7 +47,7 @@ Exploring Laravel, Flutter, and modern web technologies
 
 <!-- ==================== TECH STACK ==================== -->
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center"> Tech Stack</h2>
 
 <div align="center">
 
