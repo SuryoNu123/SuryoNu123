@@ -4,12 +4,6 @@
     <span style="color:#C3FF00;">Hello!</span> 
   </h1>
 
-  <h3>I'm Suryo Nugroho</h3>
-
-  <p>
-    <b>Informatics Engineering Student | Web Developer</b>
-  </p>
-
   <p>
     Building digital experiences, learning new technologies,
     and turning ideas into useful applications.
@@ -27,8 +21,6 @@
 
 <br>
 
-<!-- ==================== ABOUT ME ==================== -->
-
 <h2 align="center"> About Me</h2>
 
 <div align="center">
@@ -45,8 +37,6 @@ Exploring Laravel, Flutter, and modern web technologies
 
 <br>
 
-<!-- ==================== TECH STACK ==================== -->
-
 <h2 align="center"> Tech Stack</h2>
 
 <div align="center">
@@ -56,8 +46,6 @@ Exploring Laravel, Flutter, and modern web technologies
 </div>
 
 <br>
-
-<!-- ==================== GITHUB STATS ==================== -->
 
 <h2 align="center"> GitHub Statistics</h2>
 
@@ -79,8 +67,6 @@ Exploring Laravel, Flutter, and modern web technologies
 
 <br>
 
-<!-- ==================== CONTRIBUTION STREAK ==================== -->
-
 <h2 align="center"> Contribution Streak</h2>
 
 <div align="center">
@@ -94,8 +80,6 @@ Exploring Laravel, Flutter, and modern web technologies
 
 <br>
 
-<!-- ==================== CONNECT ==================== -->
-
 <h2 align="center"> Connect With Me</h2>
 
 <div align="center">
@@ -108,16 +92,3 @@ Exploring Laravel, Flutter, and modern web technologies
 </a>
 
 </div>
-
-<br>
-
-<div align="center">
-
-  <i>“Code. Create. Learn. Repeat.”</i>
-
-  <br><br>
-
-   Thanks for visiting my profile! 
-
-</div>
-```
