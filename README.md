@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>
-    <span style="color:#C3FF00;">Hello, World!</span> 👋
+    <span style="color:#C3FF00;">Hello!</span> 👋
   </h1>
 
   <h3>I'm Suryo Nugroho</h3>
