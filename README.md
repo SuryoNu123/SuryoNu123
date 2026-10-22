@@ -10,8 +10,8 @@
   <img
     src="https://github.com/user-attachments/assets/d31c35ba-9380-456f-b3d4-033fae26421e"
     alt="Pixel Art Banner"
-    width="800"
-    height="400"
+    width="900"
+    height="300"
   />
 
 <br>
