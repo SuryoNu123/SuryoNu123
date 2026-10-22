@@ -3,12 +3,7 @@
   <h1>
     <span style="color:#C3FF00;">Hello!</span> 
   </h1>
-
-  <p>
-    Building digital experiences, learning new technologies,
-    and turning ideas into useful applications.
-  </p>
-
+  
 </div>
 
 <div align="center">
