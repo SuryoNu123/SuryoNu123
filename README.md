@@ -11,7 +11,7 @@
     src="https://github.com/user-attachments/assets/d31c35ba-9380-456f-b3d4-033fae26421e"
     alt="Pixel Art Banner"
     width="900"
-    height="300"
+    height="400"
   />
 
 <br>
