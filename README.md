@@ -9,10 +9,9 @@
 <div align="center">
   <img
     src="https://github.com/user-attachments/assets/d31c35ba-9380-456f-b3d4-033fae26421e"
-    alt="GitHub profile banner"
-    width="100%"
+    alt="Pixel Art Banner"
+    width="900"
   />
-</div>
 
 <br>
 
@@ -42,23 +41,26 @@ Exploring Laravel, Flutter, and modern web technologies
 
 <br>
 
-<h2 align="center"> GitHub Statistics</h2>
+<h2 align="center">GitHub Statistics</h2>
 
-<div align="center">
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=SuryoNu123&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github"
-  alt="GitHub Statistics"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryoNu123&layout=compact&theme=chartreuse-dark&hide_border=true"
-  alt="Most Used Languages"
-/>
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=SuryoNu123&show_icons=true&theme=chartreuse-dark&hide_border=true&hide_title=false"
+        height="180"
+        alt="GitHub Statistics"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryoNu123&layout=compact&theme=chartreuse-dark&hide_border=true"
+        height="180"
+        alt="Most Used Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 <br>
 
