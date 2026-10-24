@@ -21,14 +21,14 @@
 
 <div align="center">
   <img
-    src="./images/miss-minutes.gif"
+    src="./images/miss-minutes-fixed.gif"
     width="130"
     align="left"
     alt="Miss Minutes"
   />
 
   <img
-    src="./images/miss-minutes.gif"
+    src="./images/miss-minutes-fixed.gif"
     width="130"
     align="right"
     alt="Miss Minutes"
