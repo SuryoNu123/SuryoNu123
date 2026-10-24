@@ -1,9 +1,10 @@
 <div align="center">
-
   <h1>
-    <span style="color:#C3FF00;">Hello!</span> 
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=C3FF00&center=true&vCenter=true&width=220&lines=Hello!"
+      alt="Hello animation"
+    />
   </h1>
-  
 </div>
 
 <div align="center">
