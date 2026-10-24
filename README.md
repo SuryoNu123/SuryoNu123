@@ -16,20 +16,37 @@
 
 <br>
 
-<h2 align="center"> About Me</h2>
+ <h2 align="center">About Me</h2>
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <img
+        src="./images/miss-minutes.gif"
+        width="130"
+        alt="Miss Minutes"
+      />
+    </td>
+    <td align="center" width="50%">
+      Informatics Engineering Student
+      <br><br>
+      Interested in Web Development and UI/UX Design
+      <br><br>
+      Learning, building, and improving every day
+      <br><br>
+      Exploring Laravel, Flutter, and modern web technologies
+    </td>
+    <td align="center" width="25%">
+      <img
+        src="./images/miss-minutes.gif"
+        width="130"
+        alt="Miss Minutes"
+      />
+    </td>
+  </tr>
+</table>
 
-Informatics Engineering Student
-
-Interested in Web Development and UI/UX Design
-
-Learning, building, and improving every day
-
-Exploring Laravel, Flutter, and modern web technologies
-
-</div>
-
+<br>
 <br>
 
 <h2 align="center"> Tech Stack</h2>
