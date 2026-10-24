@@ -56,8 +56,6 @@
 
 </div>
 
-<br>
-
 <h2 align="center">GitHub Statistics</h2>
 
 <table align="center" width="100%">
@@ -91,8 +89,6 @@
 />
 
 </div>
-
-<br>
 
 <h2 align="center"> Connect With Me</h2>
 
