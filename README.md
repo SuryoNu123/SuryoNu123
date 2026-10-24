@@ -19,16 +19,17 @@
 
  <h2 align="center">About Me</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td align="center" width="25%" style="border: none;">
       <img
-        src="./images/miss-minutes-fixed.gif"
+        src="./images/miss-minutes.gif"
         width="130"
         alt="Miss Minutes"
       />
     </td>
-    <td align="center" width="50%">
+
+    <td align="center" width="50%" style="border: none;">
       Informatics Engineering Student
       <br><br>
       Interested in Web Development and UI/UX Design
@@ -37,17 +38,16 @@
       <br><br>
       Exploring Laravel, Flutter, and modern web technologies
     </td>
-    <td align="center" width="25%">
+
+    <td align="center" width="25%" style="border: none;">
       <img
-        src="./images/miss-minutes-fixed.gif"
+        src="./images/miss-minutes.gif"
         width="130"
         alt="Miss Minutes"
       />
     </td>
   </tr>
 </table>
-
-<br>
 
 <h2 align="center"> Tech Stack</h2>
 
