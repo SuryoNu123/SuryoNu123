@@ -77,8 +77,6 @@
   </tr>
 </table>
 
-<br>
-
 <h2 align="center"> Contribution Streak</h2>
 
 <div align="center">
