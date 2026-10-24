@@ -22,7 +22,7 @@
   <tr>
     <td align="center" width="25%">
       <img
-        src="./images/miss-minutes.gif"
+        src="./images/miss-minutes-fixed.gif"
         width="130"
         alt="Miss Minutes"
       />
@@ -38,7 +38,7 @@
     </td>
     <td align="center" width="25%">
       <img
-        src="./images/miss-minutes.gif"
+        src="./images/miss-minutes-fixed.gif"
         width="130"
         alt="Miss Minutes"
       />
