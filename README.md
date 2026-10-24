@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=C3FF00&center=true&vCenter=true&width=220&lines=Hello!"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=87CEFA&center=true&vCenter=true&width=220&lines=Hello!"
       alt="Hello animation"
     />
   </h1>
