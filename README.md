@@ -54,27 +54,48 @@
 <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,tailwind,mysql,flutter,git,github,vscode" alt="Tech Stack" />
 
 </div>
-
 <h2 align="center">GitHub Statistics</h2>
 
-<div align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=SuryoNu123&show_icons=true&theme=transparent&hide_border=true"
-    height="180"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SuryoNu123&layout=compact&theme=transparent&hide_border=true"
-    height="180"
-    alt="Most Used Languages"
-  />
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=SuryoNu123&show_icons=true&theme=chartreuse-dark&hide_border=true&hide_title=false"
+        height="180"
+        alt="GitHub Statistics"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryoNu123&layout=compact&theme=chartreuse-dark&hide_border=true"
+        height="180"
+        alt="Most Used Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 <h2 align="center"> Contribution Streak</h2>
 
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=SuryoNu123&theme=transparent&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
+
+<img
+  src="https://streak-stats.demolab.com?user=SuryoNu123&theme=chartreuse-dark&hide_border=true"
+  alt="GitHub Contribution Streak"
+/>
+
 </div>
+
+<h2 align="center"> Connect With Me</h2>
+
+<div align="center">
+
+<a href="https://github.com/SuryoNu123">
+  <img
+    src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"
+    alt="GitHub Profile"
+  />
+</a>
+
+</div>
+
