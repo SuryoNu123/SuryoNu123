@@ -20,20 +20,7 @@
 <h2 align="center">About Me</h2>
 
 <div align="center">
-  <img
-    src="./images/miss-minutes-fixed.gif"
-    width="130"
-    align="left"
-    alt="Miss Minutes"
-  />
-
-  <img
-    src="./images/miss-minutes-fixed.gif"
-    width="130"
-    align="right"
-    alt="Miss Minutes"
-  />
-
+  
   <p>
     Informatics Engineering Student
     <br><br>
@@ -54,6 +41,7 @@
 <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,tailwind,mysql,flutter,git,github,vscode" alt="Tech Stack" />
 
 </div>
+
 <h2 align="center">GitHub Statistics</h2>
 
 <table align="center" width="100%">
