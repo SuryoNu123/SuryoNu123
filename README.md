@@ -42,26 +42,6 @@
 
 </div>
 
-<h2 align="center">GitHub Statistics</h2>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=SuryoNu123&show_icons=true&theme=chartreuse-dark&hide_border=true&hide_title=false"
-        height="180"
-        alt="GitHub Statistics"
-      />
-    </td>
-    <td align="center" width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryoNu123&layout=compact&theme=chartreuse-dark&hide_border=true"
-        height="180"
-        alt="Most Used Languages"
-      />
-    </td>
-  </tr>
-</table>
 
 <h2 align="center"> Contribution Streak</h2>
 
